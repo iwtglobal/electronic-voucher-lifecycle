@@ -115,13 +115,13 @@ At batch or unit level before sale, and sometimes after sale if the product defi
 Yes; multi-tier EVD tracks which node owns available stock while the voucher’s global ID remains unique.
 
 **How does this relate to MoboGage / EVD System?**  
-EVD System is MoboGage’s electronic voucher distribution and management platform family; the electronic voucher lifecycle is central to how EVMS inventory, POS, and redeem modules stay consistent. See also the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) overview when evaluating product fit.
+EVD System is MoboGage’s electronic voucher distribution and management platform family; the electronic voucher lifecycle is central to how EVMS inventory, POS, and redeem modules stay consistent. See also the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) overview when evaluating product fit.
 
 ---
 
 ## Further Reading / Related Industry Resources
 
-- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) — EVMS product context  
+- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) — EVMS product context  
 - [EVD System home](https://evdsystem.com/) — platform overview for digital value distribution  
 
 See also [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) for a component view.

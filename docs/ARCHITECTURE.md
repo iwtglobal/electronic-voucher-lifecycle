@@ -36,4 +36,4 @@ High-level reference for evaluating **electronic voucher lifecycle** controls in
 - Redeem success / fail  
 - Expiry and void with actor  
 
-Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system/), [evdsystem.com](https://evdsystem.com/).
+Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/), [evdsystem.com](https://evdsystem.com/).
